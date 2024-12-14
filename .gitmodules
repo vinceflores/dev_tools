@@ -1,3 +1,9 @@
 [submodule "clerk_nest_next_template"]
 	path = clerk_nest_next_template
 	url = https://github.com/vinceflores/clerk_nest_next_template.git
+[submodule "repos_to_sanity"]
+	path = repos_to_sanity
+	url = https://github.com/vinceflores/repos-to-sanity.git
+[submodule "repos_to_sanity_docs"]
+	path = repos_to_sanity_docs
+	url = https://github.com/vinceflores/repo-to-sanity-docs.git
