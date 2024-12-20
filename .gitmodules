@@ -7,3 +7,6 @@
 [submodule "repos_to_sanity_docs"]
 	path = repos_to_sanity_docs
 	url = https://github.com/vinceflores/repo-to-sanity-docs.git
+[submodule "vf_nvim_config"]
+	path = vf_nvim_config
+	url = https://github.com/vinceflores/vf_nvim_config.git
