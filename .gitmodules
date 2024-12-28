@@ -10,3 +10,6 @@
 [submodule "vf_nvim_config"]
 	path = vf_nvim_config
 	url = https://github.com/vinceflores/vf_nvim_config.git
+[submodule "clerk_next_uploadthing"]
+	path = clerk_next_uploadthing
+	url = https://github.com/vinceflores/clerk_next_uploadthing.git
